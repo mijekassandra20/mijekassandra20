@@ -11,5 +11,6 @@ I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 
 ## Get in touch :coffee:
 
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
+- I am currently working as a Backend Developer at Support Zebra.
+- You can take a look at my [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
 - Email me at kassandra.mije@supportzebra.com
