@@ -1,7 +1,6 @@
 # Hey there :wave:
 
-![HELLO WORLD](https://user-images.githubusercontent.com/115439406/209640943-47832f27-693f-4f6f-84fa-724c1272d258.png)
-
+![Kassandra's Github Stats](https://github-readme-stats.vercel.app/api?username=mijekassandra20&theme=aura_dark&show_icons=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mijekassandra20&theme=monokai-metallian&count_private=true)
 
 ## About me :pencil:
 
@@ -14,3 +13,4 @@ I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 - I am currently working as a Backend Developer at Support Zebra.
 - You can take a look at my [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
 - Email me at kassandra.mije@supportzebra.com
+
