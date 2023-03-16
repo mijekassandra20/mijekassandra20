@@ -2,7 +2,7 @@
 
 ## About me :pencil:
 
-I am Kassandra Mije, a Software engineer specializing in backend development utilizing Javascript, Node.js, Express.js, MongoDB, AWS, and REST APIs.
+I am Kassandra Mije, a Software engineer specializing in backend development utilizing Javascript, Node.js, React.js, Express.js, MongoDB, and REST APIs.
 I also have knowlegde in HTML5, CSS, Bootstrap and MySQL.
 
 
