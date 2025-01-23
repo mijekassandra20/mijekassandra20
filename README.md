@@ -2,11 +2,11 @@
 
 ## About me :pencil:
 
-I am Kassandra Mije, a Web Developer utilizing Javascript, Typescript, Node.js, React.js, Express.js, MongoDB, and REST APIs. I also have knowledge of HTML5, CSS, Bootstrap, MUI, and MySQL.
+I am Kassandra Mije, a Web Developer utilizing Javascript, Typescript, Node.js, React.js, Express.js, MongoDB, and REST APIs. I also have knowledge of HTML5, Tailwind CSS, MUI, and MySQL.
 
 ## Get in touch :coffee:
 
-- I am currently working as a Junior Web Developer at Support Zebra.
+- I am currently working as a Web Developer at Support Zebra.
 - You can take a look at my [LinkedIn](https://www.linkedin.com/in/kassandra-mije/)
 - Email me at kassandra.mije@supportzebra.com
 
